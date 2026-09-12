@@ -4,7 +4,7 @@
 
 🌐 **Live Portfolio:** https://wycliffe36.github.io
 📧 ochiengaoko@gmail.com | 📱 +254729420136
-💻 GitHub: github.com/Wycliffecoder123 | Streamlit: wycliffe36 (5 live apps)
+💻 GitHub: github.com/Wycliffe36 | Streamlit: wycliffe36 (5 live apps)
 
 ### Flagship: SautiChapChap - Real-time Swahili Voice Commerce
 - **Live:** https://gafb3.streamlit.app
